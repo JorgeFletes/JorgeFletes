@@ -4,7 +4,7 @@
 </a>
 
 <h1 align="center">Hi 👋, I'm Jorge Fletes</h1>
-<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
+<h3 align="center">Passionate recently graduated systems engineer | Exploring the Boundless World of Technology</h3>
 
 <h1>About Me! 😎</h1>
 
